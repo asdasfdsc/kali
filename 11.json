@@ -1,0 +1,14 @@
+[
+  {
+    "type": "exec",
+    "payload": "ipconfig"
+  },
+  {
+    "type": "read_file",
+    "payload": "C:\\Windows\\win.ini"
+  },
+  {
+    "type": "list_dir",
+    "payload": "C:\\Users"
+  }
+]
