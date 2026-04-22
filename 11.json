@@ -1,6 +1,6 @@
 [
   {
     "type": "exec",
-    "payload": "ipconfig"
+    "payload": "python --version"
   }
 ]
